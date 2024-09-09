@@ -5,8 +5,10 @@ category: manuscripts
 permalink: /publication/2023-09-23-paper-Predictive-Process-Monitoring
 excerpt: 'This paper investigates predictive process monitoring problems in emergency treatment by combining the fields of process management and artificial intelligence.'
 date: 2023-09-23
-venue: 'Advances in Operations Research'
-<!--- slidesurl: '' -->
+venue: 'Advances in Operations Research' 
+<!--- 
+slidesurl: '' 
+-->
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1155/2023/8867057'
 citation: 'Aravazhi, Agaraoli, Helgheim, Berit I., Aadahl, Petter, Decision-Making Based on Predictive Process Monitoring of Patient Treatment Processes: A Case Study of Emergency Patients, Advances in Operations Research, 2023, 8867057, 10 pages, 2023. https://doi.org/10.1155/2023/8867057'
 ---
